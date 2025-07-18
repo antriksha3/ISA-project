@@ -1,0 +1,12 @@
+# Hubble Parameter Estimation – Summer Internship Project
+
+This project was completed during the Indian Space Academy Summer Internship (2025) under a 120+ hour training program.
+
+We used Python and real observational data to estimate the "Hubble Constant", helping understand the universe’s expansion rate.
+
+📌 Tools Used:
+- Python (NumPy, matplotlib)
+- Data visualization
+- Jupyter Notebook
+
+📄 Includes: Cleaned data, processing scripts, and final report (PDF).
